@@ -1,7 +1,11 @@
 [package]
 name = "geographiclib"
 version = "0.1.0"
-authors = ["Brian Savage <savage@uri.edu>"]
+authors = ["Brian Savage <savage13@gmail.com>"]
 edition = "2018"
+license = "MIT"
 
 [dependencies]
+
+[build-dependencies]
+cc = "1.0"
