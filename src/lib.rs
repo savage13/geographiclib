@@ -140,7 +140,7 @@ impl Ellipsoid {
             Ellipsoid::GRS80         => ( 6_378_137.0,   1.0 / 298.257_222_101),
             Ellipsoid::Mercury       => ( 2_439_700.0,   0.0),
             Ellipsoid::Venus         => ( 6_051_800.0,   0.0),
-            Ellipsoid::Mars          => ( 3_396_190.0,   1.0 / 169.894447),
+            Ellipsoid::Mars          => ( 3_396_190.0,   1.0 / 169.894_447),
             Ellipsoid::Jupiter       => (71_492_000.0,   1.0 / 15.41440),
             Ellipsoid::Saturn        => (60_268_000.0,   1.0 / 10.20799),
             Ellipsoid::Uranus        => (25_559_000.0,   1.0 / 43.6160),
