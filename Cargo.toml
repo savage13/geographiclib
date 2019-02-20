@@ -3,7 +3,12 @@ name = "geographiclib"
 version = "0.1.0"
 authors = ["Brian Savage <savage13@gmail.com>"]
 edition = "2018"
-license = "MIT"
+build = "build.rs"
+repository = "https://github.com/savage13/geographiclib"
+homepage = "https://github.com/savage13/geographiclib"
+documentation = "https://docs.rs/geographiclib"
+license = "MIT/X11"
+description = "Library for solving geodesic problems, wrapper around GeographicLib"
 
 [dependencies]
 
